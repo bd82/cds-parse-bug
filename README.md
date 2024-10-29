@@ -19,3 +19,5 @@ What is needed for `@sap/cds/common` to be recognized when using the programmati
 
 - `npm install`
 - `node index.js`
+
+Recommended to reproduce on github codesspaces to ensure a **clean** env
