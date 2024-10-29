@@ -2,7 +2,7 @@
 
 ## Description
 
-When importing from `@sap/cds/common` the parse (also `reflect()`) functions 
+When importing from `@sap/cds/common` the `compile()` (also `reflect()`) functions 
 throw an error:
 
 -  `CompilationError: CDS compilation failed (@sap/cds-compiler v5.3.0)
